@@ -28,6 +28,10 @@ Code contains important parts like :. <b>
 
 1- [Numpy](https://numpy.org/) - The fundamental package for scientific computing with Python<br />
 
+# Install :<br>
+  You can use requirement.txt to install all requirements <br>
+    `conda install --file requirements.txt`
+    
 # Authors
 
 Origanally this is a part of Deep_Learning_Nanodegree [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
